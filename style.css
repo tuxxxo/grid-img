@@ -1,0 +1,15 @@
+.imagem{ width: 300px;
+        height: 150px;
+}
+
+.texto{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+    font-style: normal;
+    font-size: 20px;
+}
+
+.todas{
+    display: grid;
+    gap: 50px;
+    
+  }
