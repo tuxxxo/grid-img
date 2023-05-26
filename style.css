@@ -3,13 +3,15 @@
 }
 
 .texto{
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+    color: #ff5248;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-style: normal;
     font-size: 20px;
 }
 
 .todas{
     display: grid;
-    gap: 50px;
-    
+    grid-template-columns: 33% 33% 33%;
+
+
   }
